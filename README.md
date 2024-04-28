@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenio-turcott&show_icons=true&locale=en" alt="eugenio-turcott" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenio-turcott&" alt="eugenio-turcott" /></p>
+
+![Cat coding]([https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47mz8r1ixy5cbfllmj96hfhdupm05tx97luju8xiza&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e))
