@@ -1,26 +1,46 @@
-<h1 align="center">Hello 👋, I'm Eugenio Turcott</h1>
-<h3 align="center">I'm a full-stack developer</h3>
+<h1 align="center">Hello everyone 👋, I'm Eugenio Turcott 🐱</h1>
+<h4 align="center">I'm a Computer Science and Technology Engineer student, with experience in software development, passionate about projecting innovative technological solutions and with an analytical vision for any project.</h4>
+<h4 align="center">Interested in full-stack development focused on high-impact software that benefits different causes.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugenio-turcott&label=Profile%20views&color=0e75b6&style=flat" alt="eugenio-turcott" /> </p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU2dWxuMTFwemNwaXdnaG5pZzFlenpjbmtycW9jenptZXNmMTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" height="220" alt="Cat coding">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVzenI3N3gxa3RyOWMwaGhtZ3RqcHJwc2Q3cG9iZHg0bTVieTRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" height="220" alt="Cat coding">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2YmNxY3QwZWF5bjBmcWliY3hvOXc5bGxueTQ2ZnBzbGZ6aTFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif" height="220" alt="Cat coding">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eugenio-turcott" alt="eugenio-turcott" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eugenio-turcott" alt="eugenio-turcott" /></a> </p>
 
-- 🔭 I’m currently working on [D.R.E.A.M. LAB](https://github.com/nachomi24/DREAMLab-x-DevSpace)
+<hr>
 
-<h3 align="left">Connect with me:</h3>
+I'm currently working on a Software Development Project for an academic assignment in my sixth semester of the Computer Technology Engineering program in Tecnológico de Monterrey.
+The project's name is <b>D.R.E.A.M. LAB</b> and I am working as a full-stack developer. I'm using <b>React</b> for the <i>frontend development of the web app and the videowall.</i> I'm also coding in <b>Python</b> for the <i>backend development of the API,</i> which is developed in FastAPI.
+
+I am currently engaged in a Software Development Project as part of an academic assignment in my sixth semester of the Computer Technology Engineering program at Tecnológico de Monterrey. The project, titled <b>D.R.E.A.M. LAB,</b> involves my role as a <u>full-stack developer.</u> For the <i>frontend development of the web application and videowall,</i> I am utilizing <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
+
+
+### FRONTEND
+- 💻 [Web App of D.R.E.A.M. LAB: React](https://github.com/nachomi24/DREAMLab-x-DevSpace)
+- 🌐 [Videowall of D.R.E.A.M. LAB: React](https://github.com/nachomi24/DREAMLab-x-Videowall)
+
+### BACKEND
+- 🖥️ [API of D.R.E.A.M. LAB: Python - FastAPI](https://github.com/eugenio-turcott/devspace-api2)
+
+<hr>
+
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/eugenio-turcott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenio-turcott" height="30" width="40" /></a>
 <a href="https://instagram.com/eugenio_0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugenio_0310" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eugenio_turcott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eugenio_turcott" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and tools
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenio-turcott&show_icons=true&locale=en&layout=compact" alt="eugenio-turcott" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenio-turcott&show_icons=true&locale=en" alt="eugenio-turcott" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenio-turcott&" alt="eugenio-turcott" /></p>
-
-![Cat coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE4b3FqeDV2cHM5MTYzZTlrOTc5aDJyeWRoaXYxeHVlOG5obmZjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+## Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" alt="eugenio-turcott's Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200" alt="eugenio-turcott's Top Languages">
+</p>
