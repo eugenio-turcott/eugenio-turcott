@@ -12,10 +12,7 @@
 
 <hr>
 
-I'm currently working on a Software Development Project for an academic assignment in my sixth semester of the Computer Technology Engineering program in Tecnológico de Monterrey.
-The project's name is <b>D.R.E.A.M. LAB</b> and I am working as a full-stack developer. I'm using <b>React</b> for the <i>frontend development of the web app and the videowall.</i> I'm also coding in <b>Python</b> for the <i>backend development of the API,</i> which is developed in FastAPI.
-
-I am currently engaged in a Software Development Project as part of an academic assignment in my sixth semester of the Computer Technology Engineering program at Tecnológico de Monterrey. The project, titled <b>D.R.E.A.M. LAB,</b> involves my role as a <u>full-stack developer.</u> For the <i>frontend development of the web application and videowall,</i> I am utilizing <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
+I am currently engaged in a <i>Software Development Project</i> as part of an academic assignment in my sixth semester of the Computer Technology Engineering program at Tecnológico de Monterrey. The project, titled <b>D.R.E.A.M. LAB,</b> involves my role as a <b>full-stack developer.</b> For the <i>frontend development of the web application and videowall,</i> I am using <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
 
 
 ### FRONTEND
