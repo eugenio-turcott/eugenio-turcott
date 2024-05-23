@@ -20,7 +20,7 @@ I am currently engaged in a <i>Software Development Project</i> as part of an ac
 - 🌐 [Videowall of D.R.E.A.M. LAB: React](https://github.com/nachomi24/DREAMLab-x-Videowall)
 
 ### BACKEND
-- 🖥️ [API of D.R.E.A.M. LAB: Python - FastAPI](https://github.com/eugenio-turcott/devspace-api2)
+- 🖥️ [API of D.R.E.A.M. LAB: Python - FastAPI](https://github.com/eugenio-turcott/devspace-api)
 
 <hr>
 
