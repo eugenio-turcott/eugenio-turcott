@@ -39,4 +39,5 @@ I am currently engaged in a <i>Software Development Project</i> as part of an ac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200" alt="eugenio-turcott's Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200" alt="eugenio-turcott's Top Languages">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenio-turcott&theme=tokyonight" alt="eugenio-turcott" />
 </p>
