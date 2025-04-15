@@ -12,14 +12,11 @@
 
 <hr>
 
-I am currently engaged in a <i>Software Development Project</i> as part of an academic assignment in my sixth semester of the Computer Technology Engineering program at Tecnológico de Monterrey. The project, titled <b>D.R.E.A.M. LAB,</b> involves my role as a <b>full-stack developer.</b> For the <i>frontend development of the web application and videowall,</i> I am using <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
+I am currently engaged in a <i>Software Development Project</i> as a personal interest. The project, titled <b>PLANETIFY</b>, involves my role as a <b>full-stack developer.</b> For the <i>frontend development of the web page,</i> I am using <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
 
 
-### FRONTEND
-- 💻 [Web App of D.R.E.A.M. LAB: React](https://github.com/nachomi24/DREAMLab-x-DevSpace)
-
-### BACKEND
-- 🌐 [API of D.R.E.A.M. LAB: Python - FastAPI](https://github.com/eugenio-turcott/devspace-api)
+### PLANETIFY: Frontend & Backend
+- 💻🌐 [Planetify](https://github.com/eugenio-turcott/PLANETIFY)
 
 <hr>
 
