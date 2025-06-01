@@ -8,6 +8,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2YmNxY3QwZWF5bjBmcWliY3hvOXc5bGxueTQ2ZnBzbGZ6aTFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif" height="220" alt="Cat coding">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugenio-turcott&label=Profile%20views&color=0e75b6&style=flat" alt="eugenio-turcott" /> </p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eugenio-turcott" alt="eugenio-turcott" /></a> </p>
 
 <hr>
