@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋, I'm Eugenio Turcott 🐱</h1>
-<h4 align="center">I'm a Computer Science and Technology Engineer student, with experience in software development, passionate about projecting innovative technological solutions and with an analytical vision for any project.</h4>
+<h4 align="center">I'm a Computer Science and Technology Engineer, with experience in software development, passionate about projecting innovative technological solutions and with an analytical vision for any project.</h4>
 <h4 align="center">Interested in full-stack development focused on high-impact software that benefits different causes.</h4>
 
 <p align="center">
