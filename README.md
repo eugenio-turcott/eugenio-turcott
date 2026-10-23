@@ -80,7 +80,7 @@ I build and maintain the product across the stack: the interface, APIs, PostgreS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eugenio-turcott"><img src="https://img.shields.io/badge/LinkedIn-Eugenio_Turcott-82dbed?style=for-the-badge&amp;labelColor=171a2c" alt="Eugenio Turcott on LinkedIn" /></a>
-  <a href="https://www.instagram.com/eugenio_0310/"><img src="https://img.shields.io/badge/Instagram-@eugenio__0310-f57eb6?style=for-the-badge&amp;labelColor=171a2c" alt="eugenio_0310 on Instagram" /></a>
+  <a href="https://www.instagram.com/eugenio.turcott/"><img src="https://img.shields.io/badge/Instagram-@eugenio.turcott-f57eb6?style=for-the-badge&amp;labelColor=171a2c" alt="eugenio.turcott on Instagram" /></a>
   <a href="https://www.hackerrank.com/eugenio_turcott"><img src="https://img.shields.io/badge/HackerRank-eugenio__turcott-a1d6ae?style=for-the-badge&amp;labelColor=171a2c" alt="eugenio_turcott on HackerRank" /></a>
 </p>
 
