@@ -7,7 +7,7 @@ export function overviewCard(user,repos,date){
  const stars=repos.filter(r=>!r.private&&!r.fork).reduce((n,r)=>n+(Number(r.stargazers_count)||0),0);
  const values=[['Public repos',user.public_repos],['Followers',user.followers],['Stars received',stars],['Following',user.following]];
  const content=values.map(([label,value],i)=>{const x=i%2?262:26,y=i<2?78:178;return `<rect x="${x}" y="${y}" width="212" height="86" rx="14" fill="#fff" fill-opacity=".035"/><text x="${x+16}" y="${y+36}" font-size="30" font-weight="800" fill="${colors[i]}">${number(value)}</text><text x="${x+16}" y="${y+62}" font-size="13" fill="#cbc7dc">${label}</text>`;}).join('');
- return frame('A little GitHub snapshot','Public repositories, followers, stars received across non-fork public repositories, and following.',content,date);
+ return frame('GitHub stats','Public repositories, followers, stars received across non-fork public repositories, and following.',content,date);
 }
 export function languagesCard(totals,date){
  const all=Object.entries(totals).filter(([,n])=>Number.isFinite(n)&&n>0).sort((a,b)=>b[1]-a[1]),total=all.reduce((s,[,n])=>s+n,0),rows=all.slice(0,5);
@@ -15,5 +15,5 @@ export function languagesCard(totals,date){
  let x=26;
  const bar=rows.map(([,n],i)=>{const w=448*n/total;const rect=`<rect x="${x.toFixed(2)}" y="82" width="${w.toFixed(2)}" height="14" fill="${colors[i]}"/>`;x+=w;return rect;}).join('');
  const legend=rows.map(([name,n],i)=>`<circle cx="32" cy="${123+i*25}" r="4" fill="${colors[i]}"/><text x="46" y="${128+i*25}" fill="#ddd8ea" font-size="13">${esc(name)}</text><text x="473" y="${128+i*25}" text-anchor="end" fill="${colors[i]}" font-size="13" font-weight="700">${(100*n/total).toFixed(1)}%</text>`).join('');
- return frame('Languages in my repositories','Language share by bytes in active, non-fork public repositories; not a measure of proficiency.',rows.length?bar+legend:'<text x="26" y="135" fill="#cbc7dc" font-size="14">No public language data available.</text>',date);
+ return frame('Languages','Language share by bytes in active, non-fork public repositories; not a measure of proficiency.',rows.length?bar+legend:'<text x="26" y="135" fill="#cbc7dc" font-size="14">No public language data available.</text>',date);
 }
