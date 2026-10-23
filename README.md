@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU2dWxuMTFwemNwaXdnaG5pZzFlenpjbmtycW9jenptZXNmMTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVzenI3N3gxa3RyOWMwaGhtZ3RqcHJwc2Q3cG9iZHg0bTVieTRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2YmNxY3QwZWF5bjBmcWliY3hvOXc5bGxueTQ2ZnBzbGZ6aTFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="160" alt="A little cat-powered coding energy" />
+  <img src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif" height="160" alt="A little cat-powered coding energy" />
 </p>
 
 ## What I'm building
