@@ -66,8 +66,8 @@ I build and maintain the product across the stack: the interface, APIs, PostgreS
 ## GitHub, at a glance
 
 <p align="center">
-  <img src="assets/overview.svg" width="49%" alt="Public GitHub profile statistics: repositories, followers, stars and following" />
-  <img src="assets/languages.svg" width="49%" alt="Language distribution by bytes in my active, non-fork public repositories" />
+  <img src="assets/overview.svg" width="400" alt="Public GitHub profile statistics: repositories, followers, stars and following" />
+  <img src="assets/languages.svg" width="400" alt="Language distribution by bytes in my active, non-fork public repositories" />
 </p>
 
 <p align="center">
