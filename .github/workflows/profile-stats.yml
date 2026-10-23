@@ -1,0 +1,35 @@
+name: Refresh public profile cards
+on:
+  push:
+    branches: [main]
+    paths: ['README.md', 'scripts/**', '.github/workflows/profile-stats.yml']
+  schedule:
+    - cron: '17 14 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test scripts/profile-cards.test.mjs
+      - run: node scripts/update-profile.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save updated public cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/overview.svg assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh public profile cards"
+            git push
+          fi

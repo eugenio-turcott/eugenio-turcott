@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {ownPublicRepos,overviewCard,languagesCard}from './profile-cards.mjs';
+test('exclude private, forked, archived and unrelated codebases',()=>{const r={owner:{login:'eugenio-turcott'}};assert.equal(ownPublicRepos([r,{...r,private:true},{...r,fork:true},{...r,archived:true},{...r,owner:{login:'other'}}],'eugenio-turcott').length,1);});
+test('public statistics and language labels are accurate and escaped',()=>{const svg=languagesCard({JavaScript:200,'<script>':100},'date');assert.ok(svg.includes('&lt;script&gt;'));assert.ok(!svg.includes('<script>'));assert.ok(svg.includes('66.7%'));assert.ok(svg.includes('33.3%'));const overview=overviewCard({public_repos:11,followers:7,following:14},[{stargazers_count:3},{stargazers_count:100,private:true},{stargazers_count:100,fork:true}],'date');assert.ok(overview.includes('>3</text>'));assert.ok(!overview.includes('>203</text>'));});
+test('empty data stays readable without invalid numbers',()=>{const svg=languagesCard({},'date');assert.ok(svg.includes('No public language data available.'));assert.ok(!/NaN|Infinity/.test(svg));});

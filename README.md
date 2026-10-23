@@ -1,41 +1,87 @@
-<h1 align="center">Hello everyone 👋, I'm Eugenio Turcott 🐱</h1>
-<h4 align="center">I'm a Computer Science and Technology Engineer, with experience in software development, passionate about projecting innovative technological solutions and with an analytical vision for any project.</h4>
-<h4 align="center">Interested in full-stack development focused on high-impact software that benefits different causes.</h4>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Eugenio Turcott — Full-stack developer and Computer Science Engineer" />
+</p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU2dWxuMTFwemNwaXdnaG5pZzFlenpjbmtycW9jenptZXNmMTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" height="220" alt="Cat coding">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVzenI3N3gxa3RyOWMwaGhtZ3RqcHJwc2Q3cG9iZHg0bTVieTRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" height="220" alt="Cat coding">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2YmNxY3QwZWF5bjBmcWliY3hvOXc5bGxueTQ2ZnBzbGZ6aTFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif" height="220" alt="Cat coding">
+  Building things that bring people together. Currently, that means music. 🎧<br />
+  Based in Monterrey, Mexico · Curious about the entire journey from idea to production.
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eugenio-turcott&label=Profile%20views&color=0e75b6&style=flat" alt="eugenio-turcott" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eugenio-turcott" alt="eugenio-turcott" /></a> </p>
-
-<hr>
-
-I am currently engaged in a <i>Software Development Project</i> as a personal interest. The project, titled <b>PLANETIFY</b>, involves my role as a <b>full-stack developer.</b> For the <i>frontend development of the web page,</i> I am using <b>React.</b> Additionally, I am programming the <i>backend API</i> using <b>Python,</b> specifically leveraging the <b>FastAPI framework.</b>
-
-
-### PLANETIFY: Frontend & Backend
-- 💻🌐 [Planetify](https://github.com/eugenio-turcott/PLANETIFY)
-
-<hr>
-
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/eugenio-turcott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenio-turcott" height="30" width="40" /></a>
-<a href="https://instagram.com/eugenio_0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugenio_0310" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eugenio_turcott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eugenio_turcott" height="30" width="40" /></a>
-</p>
-
-## Languages and tools
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<hr>
-
-## Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175" alt="eugenio-turcott's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-turcott&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175" alt="eugenio-turcott's Top Languages">
+  <a href="https://www.musiclub.org"><img src="https://img.shields.io/badge/Building-Musiclub-f57eb6?style=for-the-badge&amp;labelColor=171a2c" alt="Currently building Musiclub" /></a>
+  <a href="https://www.linkedin.com/in/eugenio-turcott"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-82dbed?style=for-the-badge&amp;labelColor=171a2c" alt="Connect on LinkedIn" /></a>
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU2dWxuMTFwemNwaXdnaG5pZzFlenpjbmtycW9jenptZXNmMTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVzenI3N3gxa3RyOWMwaGhtZ3RqcHJwc2Q3cG9iZHg0bTVieTRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2YmNxY3QwZWF5bjBmcWliY3hvOXc5bGxueTQ2ZnBzbGZ6aTFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif" width="29%" height="150" alt="A little cat-powered coding energy" />
+</p>
+
+## What I'm building
+
+### 🎵 Musiclub · Music, community & discovery
+
+A music community where people discover releases, share track-by-track reviews, rate cover art and listen together.
+
+I build and maintain the product across the stack: the interface, APIs, PostgreSQL data model, authentication, background integrations and deployment.
+
+- **Discover:** artist discographies, genre identities and a searchable release catalogue.
+- **Share:** community reviews, personal profiles and cover-art ratings.
+- **Listen together:** seasonal release pools and an arcade-style discovery experience.
+- **Keep it dependable:** automated checks, access controls and continuous improvements.
+
+**Next.js · React · JavaScript · Tailwind CSS · Supabase · PostgreSQL · Vercel · GitHub Actions**
+
+[Explore Musiclub ↗](https://www.musiclub.org) · [View the source ↗](https://github.com/eugenio-turcott/musiclub-albumes)
+
+## My toolkit
+
+**Web & interfaces**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap&amp;theme=dark" alt="JavaScript, HTML, CSS, React, Next.js, Tailwind CSS and Bootstrap" />
+</p>
+
+**APIs, data & delivery**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,supabase,mysql,git,githubactions,vercel&amp;theme=dark&amp;perline=5" alt="Python, FastAPI, Node.js, Express, PostgreSQL, Supabase, MySQL, Git, GitHub Actions and Vercel" />
+</p>
+
+**Also explored**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,cs,cpp,dotnet,azure,firebase,figma,blender,unity,postman&amp;theme=dark&amp;perline=5" alt="Swift, C#, C++, .NET, Azure, Firebase, Figma, Blender, Unity and Postman" />
+</p>
+
+## A few things from the journey
+
+| Project | Focus | Links |
+| :--- | :--- | :--- |
+| **Musiclub** | Full-stack music community · current project | [Live site](https://www.musiclub.org) · [Repository](https://github.com/eugenio-turcott/musiclub-albumes) |
+| **IronWall** | React frontend and Python backend repositories | [Frontend](https://github.com/eugenio-turcott/Frontend_IronWall) · [Backend](https://github.com/eugenio-turcott/Backend_IronWall) |
+| **PLANETIFY** | Previous project · React frontend and FastAPI backend | [Repository](https://github.com/eugenio-turcott/PLANETIFY) |
+| **RayosX** | Swift project built with a team | [Repository](https://github.com/eugenio-turcott/RayosX_Recolector) |
+
+## GitHub, at a glance
+
+<p align="center">
+  <img src="assets/overview.svg" width="49%" alt="Public GitHub profile statistics: repositories, followers, stars and following" />
+  <img src="assets/languages.svg" width="49%" alt="Language distribution by bytes in my active, non-fork public repositories" />
+</p>
+
+<p align="center">
+  <sub>Real public GitHub data, refreshed daily. Language percentages describe repository bytes, not proficiency.<br />
+  These cards live in this repository, so they stay visible even when a third-party widget is unavailable.</sub>
+</p>
+
+## Find me elsewhere
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eugenio-turcott"><img src="https://img.shields.io/badge/LinkedIn-Eugenio_Turcott-82dbed?style=for-the-badge&amp;labelColor=171a2c" alt="Eugenio Turcott on LinkedIn" /></a>
+  <a href="https://www.instagram.com/eugenio_0310/"><img src="https://img.shields.io/badge/Instagram-@eugenio__0310-f57eb6?style=for-the-badge&amp;labelColor=171a2c" alt="eugenio_0310 on Instagram" /></a>
+  <a href="https://www.hackerrank.com/eugenio_turcott"><img src="https://img.shields.io/badge/HackerRank-eugenio__turcott-a1d6ae?style=for-the-badge&amp;labelColor=171a2c" alt="eugenio_turcott on HackerRank" /></a>
+</p>
+
+<p align="center"><sub>Made with curiosity, care, and probably a cat somewhere nearby. 🐈</sub></p>

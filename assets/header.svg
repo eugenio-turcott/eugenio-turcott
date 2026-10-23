@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
+<title id="title">Eugenio Turcott — Full-stack developer</title><desc id="desc">Computer Science and Technology Engineer. Building thoughtful products, from interface to infrastructure.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101321"/><stop offset="1" stop-color="#25162f"/></linearGradient><linearGradient id="accent"><stop stop-color="#fa83b8"/><stop offset="1" stop-color="#82dbed"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a5a1d0" stroke-opacity=".07"/></pattern></defs>
+<rect width="1098" height="248" x="1" y="1" rx="24" fill="url(#bg)" stroke="#51405d"/><rect width="1098" height="248" x="1" y="1" rx="24" fill="url(#grid)"/>
+<circle cx="1010" cy="40" r="150" fill="#ec72b8" opacity=".045"/><circle cx="1090" cy="180" r="130" fill="none" stroke="#82dbed" stroke-opacity=".12"/>
+<rect x="44" y="41" width="5" height="170" rx="2.5" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="76" y="65" fill="#82dbed" font-size="13" font-weight="700" letter-spacing="3">HELLO, WORLD. I'M</text>
+<text x="72" y="126" fill="#f6f1fa" font-size="53" font-weight="800">Eugenio Turcott</text>
+<text x="76" y="165" fill="#f7a6ce" font-size="23" font-weight="600">Full-stack developer · Computer Science Engineer</text>
+<text x="76" y="201" fill="#b7b3cb" font-size="17">Thoughtful interfaces. Reliable systems. A little curiosity in everything.</text></g>
+<g transform="translate(950 97)" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="m-12 0-22 24 22 24M28 0l22 24-22 24M14-8-2 56"/></g></svg>
